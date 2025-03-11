@@ -1,4 +1,11 @@
-## Hi there 👋
+### Hi there! 👋 I'm Shalini Tripathi  
+
+🚀 MCA Student | Aspiring Data Analyst & Web Designer  
+
+🔹 Exploring **Data Analytics** & **Web Technologies**  
+🔹 Sharing projects & learning experiences  
+🔹 Building my **portfolio**—Stay tuned!  
+
 
 <!--
 **shalini2611/shalini2611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
