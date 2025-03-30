@@ -1,10 +1,11 @@
 ### Hi there! 👋 I'm Shalini Tripathi  
 
-🚀 MCA Student | Aspiring Data Analyst & Web Designer  
+🚀 MCA Student 
+📊 Aspiring Data Analyst | 🔍 Exploring Data Science | 💻 Web Developer in Progress  
+🚀 Passionate about solving real-world problems using data and code.  
+💡 Currently working on projects in Python, SQL, Machine Learning, and Web Technologies.  
 
-🔹 Exploring **Data Analytics** & **Web Technologies**  
-🔹 Sharing projects & learning experiences  
-🔹 Building my **portfolio**—Stay tuned!  
+📌 Check out my projects below!  
 
 
 <!--
